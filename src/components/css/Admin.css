@@ -1,0 +1,60 @@
+.Adminform{
+    height: 400px;
+    width: 500px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    padding-bottom: 1rem;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    align-content: center;
+    text-decoration: none;
+    align-content:center ;
+}
+.background{
+    align-items: center;
+    display: flex;
+}
+.backgroundimage{
+    align-items: center;
+    display: flex;
+}
+.Adminform > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 1rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.Adminform > .button {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 1rem;
+    margin: 2rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+.Adminform > .button a{
+    text-decoration: none;
+    color: #dddfe2;
+}
+.background{
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v870-tang-36_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d79f64b7b61002995177b5a8d81b522e");
+    background-repeat: no-repeat;
+    margin-top: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+  background-size: cover;
+  height: 65vh;
+}
